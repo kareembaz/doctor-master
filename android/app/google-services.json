@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "587832712055",
+    "project_id": "doctor-3778f",
+    "storage_bucket": "doctor-3778f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:587832712055:android:6ef634f817d7bf74b09f72",
+        "android_client_info": {
+          "package_name": "com.htidoctor.doctor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "587832712055-ukss4t7ql01k1pup4c7vh4n1psvmf2ia.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBE6iCCLuz1lxzaCoyL128QwrZTtHWxO2Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "587832712055-ukss4t7ql01k1pup4c7vh4n1psvmf2ia.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "587832712055-ennkbnf950qk8o5i26rdldfneh9910rt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.htidoctor.doctor"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
